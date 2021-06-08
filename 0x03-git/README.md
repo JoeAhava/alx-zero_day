@@ -1,1 +1,1 @@
-<h2>Git - Practice</h2>
+<h2>Git - Practice Project</h2>
